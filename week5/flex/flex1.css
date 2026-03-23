@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    padding-top: 2000px;
+    padding: 50px;
+    justify-content:space-around;
+    text-align: center;
+    gap: 20px;
+    background-color: rgb(176, 196, 197);
+}
+h3{
+border-radius: 50%;
+color: white;
+padding: 10px;
+margin: 30px;
+}
+.text1{
+    background-color: lightcoral;
+}
+.text2{
+    background-color: lightblue;
+}
+.text3{
+    background-color: lightpink;
+}
+.text4{
+    background-color: lightseagreen;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+section{
+    padding: 20px;
+    text-align: center;
+    background-color: aliceblue;
+    width: 200px;
+}
