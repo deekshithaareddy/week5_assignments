@@ -15,7 +15,7 @@ A responsive image card layout built with Tailwind CSS.
 
 
 
-### 2. Tailwind CSS - Landing Page (`week5-tailwind-landing.html`)
+### 2. Tailwind CSS - Landing Page 
 
 A simple landing page layout with a hero section, content cards, and a footer.
 
@@ -27,9 +27,9 @@ A simple landing page layout with a hero section, content cards, and a footer.
 
 
 
-### 3. Tailwind CSS - Themed Page (`week5-tailwind-themed.html`)
+### 3. Tailwind CSS - Themed Page
 
-A red-themed political/brand-style page using dark color combinations.
+A red-themed using dark color combinations.
 
 **Concepts practiced:**
 - CDN-based Tailwind (`<script src="https://cdn.tailwindcss.com">`)
@@ -40,7 +40,7 @@ A red-themed political/brand-style page using dark color combinations.
 
 
 
-### 4. HTML Tables (`week5-tables.html` + `5.css`)
+### 4. HTML Tables
 
 Three distinct table examples demonstrating different `colspan` and `rowspan` use cases.
 
@@ -73,7 +73,7 @@ A fruit showcase page using circular images and colored name badges.
 
 
 
-### 6. Flexbox - Blog Layout (`flex2.html` + `flex2.css`)
+### 6. Flexbox - Blog Layout 
 
 A full-page blog layout with a navbar, hero section, article cards, and a footer.
 
